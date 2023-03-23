@@ -1,0 +1,9 @@
+# Site settings
+title: MobYuan
+description: For nothing
+baseurl: "/"
+
+# plugins
+theme: minimal-mistakes-jekyll
+
+
